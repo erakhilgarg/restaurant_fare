@@ -119,3 +119,6 @@ CORS_ORIGIN_ALLOW_ALL = True
 
 ZOMATO_KEY = '9a5ad94543473f5b9c63adc69f346733'
 LOCATION_URL = 'https://developers.zomato.com/api/v2.1/locations'
+LOCATION_DETAILS_URL = 'https://developers.zomato.com/api/v2.1/location_details'
+UBER_FARE_URL = 'https://api.uber.com/v1/estimates/price'
+UBER_TOKEN = ''
